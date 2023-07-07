@@ -5,7 +5,7 @@ SAST:
   language: python
 DAST:
   type: WEB
-  URL: scikit-learn.org
+  URL: https://scikit-learn.org/
 SCA:
   language: python
 Secret_Scan: true
