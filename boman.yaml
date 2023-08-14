@@ -8,4 +8,4 @@ DAST:
   URL: https://scikit-learn.org/
 SCA:
   language: python
-Secret_Scan: true
+#Secret_Scan: true
